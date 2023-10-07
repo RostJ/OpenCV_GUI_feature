@@ -6,3 +6,4 @@ def mouse_callback(event,x,y,flags,param):
         mouse_cord = (x,y)
     pass
 cv2.setMouseCallback(camera_window, mouse_callback)
+print("Лежать сосать")
